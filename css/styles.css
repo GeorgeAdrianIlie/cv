@@ -1,0 +1,13 @@
+hr {
+  border: none;
+  border-top: 10px dotted #333;
+  width: 5%;
+  background-color: linen;
+  color: #333;
+  overflow: hidden;
+  text-align: center;
+  height: 5px;
+}
+h1, h2, h3 {
+  color: #66BFBF;
+}
